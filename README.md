@@ -19,4 +19,5 @@ Proyecto: Dashboard interactivo de ventas (Power BI) con KPIs y segmentadores.
 - Segmentadores interactivos
 
 # Captura
-![Dashboard](imagen/dashboard.png)
+![Dashboard](imágenes/dashboard.png)
+
